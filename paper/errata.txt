@@ -1,0 +1,15 @@
+Errata of Feng Qian's publications 
+==================================
+
+Note that the copies stored on my homepage are always up-to-date. The following corrections
+are only applicable to old copies obtained from other sources (e.g., ACM digital library).
+
+1. "Profiling Resource Usage for Mobile Applications: a Cross-layer Approach" in Mobisys 2011
+
++ Page 8, Figure 10, Line 15 and 16: all three "&&" should be "||".
+
+15 if (i0 == ACK_DUP || i0 == ACK_RECOVER ||
+16 i0 == DATA_DUP || i0 == DATA_RECOVER) [Test 5]
+
+
+Last updated on Mar 02 2012
