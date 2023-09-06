@@ -160,7 +160,7 @@ body {
 }
 
 #banner_left {
-	width:60px;
+	width:210px;
 	float:left;	
 	margin:0;
 	text-align:left;
@@ -169,7 +169,7 @@ body {
 }
 
 #banner_right {
-	width:310px; /* was 260 for ATT page */
+	width:320px; /* was 260 for ATT page, 310 for UMN page */
 	float:right;	
 	margin:0;
 	text-align:right;
